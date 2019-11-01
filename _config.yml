@@ -82,7 +82,7 @@ exclude: [".jekyll-cache", "Gemfile", "README.md"]
 # You can also use prose (prose.io) to edit and post to your site
 prose:
   #rooturl: '_posts'
-  siteurl: 'https://yoursite.github.io'
+  siteurl: 'https://anggunbrookes.github.io'
   media: 'images'
   ignore:
     - README.md
