@@ -12,6 +12,9 @@ It is like a dream when I can study in UK. This dream came a long time ago when 
 
 From that moment, I spent my time to study English in some English Course institutions. I spent around 4 months studying English in Jogja English Dormitory for develop my basic in English. What I got after studying in this institution was an increasing TOEFL score to 450. It was still so far from the target; 550.
 
-<[![radcliffe camera](/images/2019/11/maxresdefault.jpg)](/images/2019/11/maxresdefault.jpg)>
+[![radcliffe camera](/images/2019/11/maxresdefault.jpg)](/images/2019/11/maxresdefault.jpg)
+
+
+
 
 I tried to take a course in Pare Kediri which is the most famous place to study English for Indonesia students.
